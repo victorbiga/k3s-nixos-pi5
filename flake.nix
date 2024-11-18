@@ -1,7 +1,7 @@
 {
   description = "Treidbot infrastructure";
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.11";
     raspberry-pi-nix.url = "github:nix-community/raspberry-pi-nix";
     deploy-rs.url = "github:serokell/deploy-rs";
   };
